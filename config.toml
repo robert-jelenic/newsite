@@ -1,4 +1,4 @@
-baseURL = "https://robert-jelenic.github.io/hugodemo01"
+baseURL = "https://kind-joliot-1699fe.netlify.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "jelenicTheme"
