@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://robert-jelenic.github.io/hugodemo01/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Oct 2018 12:50:33 +0100</lastBuildDate>
+    
+	<atom:link href="https://robert-jelenic.github.io/hugodemo01/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>F</title>
+      <link>https://robert-jelenic.github.io/hugodemo01/blog/f/</link>
+      <pubDate>Sat, 06 Oct 2018 19:44:07 +0100</pubDate>
+      
+      <guid>https://robert-jelenic.github.io/hugodemo01/blog/f/</guid>
+      <description>This is the content in f.md.</description>
+    </item>
+    
+    <item>
+      <title>D</title>
+      <link>https://robert-jelenic.github.io/hugodemo01/blog/d/</link>
+      <pubDate>Sat, 06 Oct 2018 19:44:02 +0100</pubDate>
+      
+      <guid>https://robert-jelenic.github.io/hugodemo01/blog/d/</guid>
+      <description>This is the content in d.md.</description>
+    </item>
+    
+    <item>
+      <title>The B Blog post</title>
+      <link>https://robert-jelenic.github.io/hugodemo01/b/</link>
+      <pubDate>Sat, 06 Oct 2018 11:19:45 +0100</pubDate>
+      
+      <guid>https://robert-jelenic.github.io/hugodemo01/b/</guid>
+      <description>This is the content in b.md.</description>
+    </item>
+    
+  </channel>
+</rss>

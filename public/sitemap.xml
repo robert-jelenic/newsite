@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/blog/f/</loc>
+    <lastmod>2018-10-06T19:44:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/blog/d/</loc>
+    <lastmod>2018-10-06T19:44:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/</loc>
+    <lastmod>2018-10-06T12:50:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/b/</loc>
+    <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/blog/</loc>
+    <lastmod>2018-10-06T19:44:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/categories/cat2/</loc>
+    <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/categories/</loc>
+    <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/moods/kathleen/</loc>
+    <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/moods/</loc>
+    <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/moods/robert/</loc>
+    <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/tags/tag2/</loc>
+    <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/tags/tag3/</loc>
+    <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/tags/</loc>
+    <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

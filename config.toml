@@ -1,0 +1,10 @@
+baseURL = "https://robert-jelenic.github.io/hugodemo01"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "jelenicTheme"
+pluralizelisttitles = false
+
+[taxonomies]
+  tag="tags"
+  category="categories"
+  mood = "moods"
