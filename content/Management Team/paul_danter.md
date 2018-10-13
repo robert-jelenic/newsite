@@ -1,6 +1,6 @@
 ---
 title: "Paul Danter"
-draft: true
+draft: false
 ---
 {{< figure src="https://res.cloudinary.com/dpuo6sogj/image/upload/v1539432540/-OHwscS3_400x400_p39lk2.jpg">}}
 

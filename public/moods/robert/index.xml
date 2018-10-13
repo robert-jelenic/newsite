@@ -20,5 +20,15 @@
       <description>This is the content in b.md.</description>
     </item>
     
+    <item>
+      <title>This is a cool blog post</title>
+      <link>https://robert-jelenic.github.io/hugodemo01/a/</link>
+      <pubDate>Sat, 06 Oct 2018 11:17:16 +0100</pubDate>
+      
+      <guid>https://robert-jelenic.github.io/hugodemo01/a/</guid>
+      <description> From Moravia to RWS Moravia: providing comprehensive #globalization services like #localization, #transcreation, #software testing, #SEO /SEM and #technology implementations. See our new website here: https://t.co/upNJy3K3cY pic.twitter.com/FXTe7eHZgp
+&amp;mdash; RWS Moravia (@Moravia) October 5, 2018  This is some text. </description>
+    </item>
+    
   </channel>
 </rss>

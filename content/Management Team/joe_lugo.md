@@ -1,6 +1,6 @@
 ---
 title: "Joe Lugo"
-draft: true
+draft: false
 ---
 {{< figure src="https://res.cloudinary.com/dpuo6sogj/image/upload/v1539433314/0_yljfsf.jpg">}}
 

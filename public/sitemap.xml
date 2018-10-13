@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/management-team/sheena_dempsey/</loc>
+    <lastmod>2018-10-06T19:43:52+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://robert-jelenic.github.io/hugodemo01/</loc>
     <lastmod>2018-10-06T12:50:33+01:00</lastmod>
   </url>
@@ -23,8 +28,19 @@
   </url>
   
   <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/a/</loc>
+    <lastmod>2018-10-06T11:17:16+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://robert-jelenic.github.io/hugodemo01/blog/</loc>
     <lastmod>2018-10-06T19:44:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/categories/cat1/</loc>
+    <lastmod>2018-10-06T11:17:16+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,13 +52,27 @@
   
   <url>
     <loc>https://robert-jelenic.github.io/hugodemo01/categories/</loc>
-    <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <lastmod>2018-10-06T11:17:16+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/management-team/charles_sitch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/management-team/joe_lugo/</loc>
   </url>
   
   <url>
     <loc>https://robert-jelenic.github.io/hugodemo01/moods/kathleen/</loc>
     <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/management-team/</loc>
+    <lastmod>2018-10-06T19:43:52+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,8 +83,22 @@
   </url>
   
   <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/management-team/paul_danter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/management-team/richard_thompson/</loc>
+  </url>
+  
+  <url>
     <loc>https://robert-jelenic.github.io/hugodemo01/moods/robert/</loc>
     <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robert-jelenic.github.io/hugodemo01/tags/tag1/</loc>
+    <lastmod>2018-10-06T11:17:16+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,7 +116,7 @@
   
   <url>
     <loc>https://robert-jelenic.github.io/hugodemo01/tags/</loc>
-    <lastmod>2018-10-06T11:19:45+01:00</lastmod>
+    <lastmod>2018-10-06T11:17:16+01:00</lastmod>
     <priority>0</priority>
   </url>
   
