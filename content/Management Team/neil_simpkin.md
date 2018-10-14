@@ -19,13 +19,13 @@ job: "Managing Director, Patent Information"
 **International experience:** acts as the interface between Head Office and our sales and production sites in China and Japan, delivering harmonized processes and combined strategic initiatives.
 
 ## Career Highlights
-Managing Director, Patent Information division (April 2017 – Present)
-Deputy Managing Director, Patent Translation & Filing division (April 2017 – Present)
-Technical Director (January 2012 - Present)
-Deputy Managing Director, UK Translation division (June 2006 – March 2017)
-Translator (1995 – 2006)
-Translation Checker (1993 - 1995)
-Translator, Daimler-Benz AG (1991-1992)
+* Managing Director, Patent Information division (April 2017 – Present)
+* Deputy Managing Director, Patent Translation & Filing division (April 2017 – Present)
+* Technical Director (January 2012 - Present)
+* Deputy Managing Director, UK Translation division (June 2006 – March 2017)
+* Translator (1995 – 2006)
+* Translation Checker (1993 - 1995)
+* Translator, Daimler-Benz AG (1991-1992)
 
 ## Qualifications
 BA (Hons) Modern Languages, University of Bradford

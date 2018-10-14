@@ -18,13 +18,13 @@ job: "Chief Financial Officer"
 Fellow of the Institute of Chartered Accountants in Ireland
 
 ### Career Highlights
-RWS Chief Financial Officer (November 2017 – Present)
-Chief Financial Officer, GAN Plc (2008 – November 2017)
-Senior Finance Director, Rodale International (October 2002 – March 2007)
-VP Finance, PredictIt.com (August 1999 – July 2001)
-Mergers and Acquisitions Analyst / Financial Controller, Primedia Inc (May 1996 – August 1999)
-Senior Internal Audit, ABC (October 1994 – May 1996)
-Senior – Audit Practice, Deloitte LLP (1990-1994)
+* RWS Chief Financial Officer (November 2017 – Present)
+* Chief Financial Officer, GAN Plc (2008 – November 2017)
+* Senior Finance Director, Rodale International (October 2002 – March 2007)
+* VP Finance, PredictIt.com (August 1999 – July 2001)
+* Mergers and Acquisitions Analyst / Financial Controller, Primedia Inc (May 1996 – August 1999)
+* Senior Internal Audit, ABC (October 1994 – May 1996)
+* Senior – Audit Practice, Deloitte LLP (1990-1994)
 
 ## Qualifications
 Master of Business Administration (MBA), Imperial College London

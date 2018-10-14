@@ -14,13 +14,13 @@ job: "Managing Director, Patent Translation & Filing"
 **Personnel management:** based at Head Office, Charles acts as a key point of contact for staff across the business and oversees the flow of work between departments.
 
 ### Career Highlights
-Managing Director, Patent Translation & Filing (April 2017 – Present)
-Director, RWS Group (2009 – April 2017)
-Managing Director, RWS Translations (2007 – 2009)
-Deputy Managing Director, RWS Translations (2003 – 2007)
-Translator (1999 – 2003)
-Senior Translation Checker (1997 – 1999)
-Translation Checker (1993 – 1997)
+* Managing Director, Patent Translation & Filing (April 2017 – Present)
+* Director, RWS Group (2009 – April 2017)
+* Managing Director, RWS Translations (2007 – 2009)
+* Deputy Managing Director, RWS Translations (2003 – 2007)
+* Translator (1999 – 2003)
+* Senior Translation Checker (1997 – 1999)
+* Translation Checker (1993 – 1997)
 
 ### Qualifications
 BA (Hons) French and German, Durham University
