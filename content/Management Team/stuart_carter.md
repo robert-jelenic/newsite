@@ -1,6 +1,6 @@
 ---
 title: "Stuart Carter"
-draft: false
+draft: true
 job: "Managing Director, Language Solutions"
 weight: 7
 ---

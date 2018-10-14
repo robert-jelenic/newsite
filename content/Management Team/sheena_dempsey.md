@@ -1,6 +1,6 @@
 ---
 title: "Sheena Dempsey"
-draft: false
+draft: true
 weight: 6
 job: "Managing Director, Life Sciences"
 ---

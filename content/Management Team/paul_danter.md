@@ -1,6 +1,6 @@
 ---
 title: Paul Danter
-draft: false
+draft: true
 weight: 8
 job: "Managing Director, Moravia"
 ---

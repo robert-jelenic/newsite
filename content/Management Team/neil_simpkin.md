@@ -1,6 +1,6 @@
 ---
 title: "Neil Simpkin"
-draft: false
+draft: true
 weight: 5
 job: "Managing Director, Patent Information"
 ---

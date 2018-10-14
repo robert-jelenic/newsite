@@ -1,6 +1,6 @@
 ---
 title: Joe Lugo
-draft: false
+draft: true
 weight: 3
 job: "Chief Operating Officer"
 ---
