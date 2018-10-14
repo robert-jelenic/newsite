@@ -23,4 +23,4 @@ job: "Managing Director, Patent Translation & Filing"
 * Translation Checker (1993 – 1997)
 
 ### Qualifications
-BA (Hons) French and German, Durham University
+* BA (Hons) French and German, Durham University

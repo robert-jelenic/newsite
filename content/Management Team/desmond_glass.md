@@ -27,6 +27,6 @@ Fellow of the Institute of Chartered Accountants in Ireland
 * Senior – Audit Practice, Deloitte LLP (1990-1994)
 
 ## Qualifications
-Master of Business Administration (MBA), Imperial College London
-Bachelor of Commerce, University College Dublin
-Chartered Accountant, Deloitte
+* Master of Business Administration (MBA), Imperial College London
+* Bachelor of Commerce, University College Dublin
+* Chartered Accountant, Deloitte

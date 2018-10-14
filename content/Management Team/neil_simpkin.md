@@ -28,5 +28,5 @@ job: "Managing Director, Patent Information"
 * Translator, Daimler-Benz AG (1991-1992)
 
 ## Qualifications
-BA (Hons) Modern Languages, University of Bradford
-HNC in Mechanical Engineering, Thames Valley University
+* BA (Hons) Modern Languages, University of Bradford
+* HNC in Mechanical Engineering, Thames Valley University
