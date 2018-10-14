@@ -1,6 +1,6 @@
 ---
 title: "Charles Sitch"
-draft: false
+draft: true
 weight: 4
 job: "Managing Director, Patent Translation & Filing"
 ---

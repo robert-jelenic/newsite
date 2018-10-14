@@ -1,6 +1,6 @@
 ---
 title: "Richard Thompson"
-draft: false
+draft: true
 job: "Chief Executive Officer"
 weight: 1
 ---
