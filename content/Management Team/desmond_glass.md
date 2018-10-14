@@ -15,7 +15,7 @@ job: "Chief Financial Officer"
 **Finance strategy design and delivery:** at GAN plc Desmond took the financial lead in driving the US market entry strategy and played a key role in expanding the company’s operations and delivery across the US and Europe. During his time at Rodale International, Desmond took on the role of shaping and delivering the financial strategy of the international portfolio of joint ventures and licensees of this market leading health and wellness media company.
 
 ## Associations
-Fellow of the Institute of Chartered Accountants in Ireland
+* Fellow of the Institute of Chartered Accountants in Ireland
 
 ### Career Highlights
 * RWS Chief Financial Officer (November 2017 – Present)
