@@ -1,10 +1,11 @@
 ---
 title: "Charles Sitch"
 draft: false
+weight: 4
+job: "Managing Director, Patent Translation & Filing"
 ---
-{{< figure src="https://res.cloudinary.com/dpuo6sogj/image/upload/v1539434171/download_p52w5y.jpg">}}
-
 ### Scope of Role
+
 **Managing Director, Patent Translation & Filing:** overall managerial responsibility for patent translation and filing services including online platform, inovia.
 
 ### Key Experience

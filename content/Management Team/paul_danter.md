@@ -1,13 +1,14 @@
 ---
 title: Paul Danter
-
+draft: false
+weight: 8
+job: "Managing Director, Moravia"
 ---
-# Paul Danter
-
 ## Key Experience
 
-Highly experienced leader with extensive market and industry knowledge: over 17 years’ experience in business operations—founding and managing new businesses and managing sales, marketing and product functions.
-Proven strategic skills: using his extensive knowledge of strategic operations, Paul has been instrumental in building and managing successful production, sales and operational strategies to grow businesses and exceed customer expectations with highly customized globalization services.
+**Highly experienced leader with extensive market and industry knowledge:** over 17 years’ experience in business operations—founding and managing new businesses and managing sales, marketing and product functions.
+
+**Proven strategic skills:** using his extensive knowledge of strategic operations, Paul has been instrumental in building and managing successful production, sales and operational strategies to grow businesses and exceed customer expectations with highly customized globalization services.
 
 ## Career Highlights
 

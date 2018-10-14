@@ -8,3 +8,4 @@ pluralizelisttitles = false
   tag="tags"
   category="categories"
   mood = "moods"
+  job = "jobs"

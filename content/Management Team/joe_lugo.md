@@ -1,9 +1,9 @@
 ---
 title: Joe Lugo
-
+draft: false
+weight: 3
+job: "Chief Operating Officer"
 ---
-# Joe Lugo
-
 ### Scope of Role
 
 **Chief Operating Officer:** responsible for the identification and implementation of operational best practices across the Group to drive profitable growth. As part of this agenda, Joe is responsible for identifying and managing corporate acquisitions and ensuring their successful integration into RWS’s operations.

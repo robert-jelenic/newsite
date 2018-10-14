@@ -1,20 +1,25 @@
 ---
 title: "Richard Thompson"
 draft: false
+job: "Chief Executive Officer"
+weight: 1
 ---
-{{< figure src="https://res.cloudinary.com/dpuo6sogj/image/upload/v1539432540/-OHwscS3_400x400_p39lk2.jpg">}}
-
 ## Key Experience
-Highly experienced leader with extensive market and industry knowledge: over 17 years’ experience in business operations—founding and managing new businesses and managing sales, marketing and product functions.
-Proven strategic skills: using his extensive knowledge of strategic operations, Paul has been instrumental in building and managing successful production, sales and operational strategies to grow businesses and exceed customer expectations with highly customized globalization services.
+
+**Highly experienced leader with wide ranging knowledge over several key geographies and industries:** with over 33 years’ experience of financial and managerial positions, Richard utilizes his experience of working within RWS and other industries to lead the company, enhance the company culture, and profitably grow the business.
+
+**Strong financial skills:** joined RWS in October 2012 as CFO and Company Secretary, and played a pivotal role in RWS’s move into life sciences translations, spearheading the acquisition of CTi and LUZ. Following the acquisition of CTi, Richard was appointed deputy CEO in 2015.
+
+**Good communication skills:** with experience at all levels of management, Richard clearly articulates a vision of RWS’s growth strategy.
 
 ## Career Highlights
-* Managing Director, RWS Moravia (January 2018 – Present)
-* Executive Vice President, Moravia (April 2015 – January 2018)
-* Vice President of Sales and Marketing, GENWI (May 2013 – March 2015)
-* Director of Product Marketing, Quark (March 2012 – May 2013)
-* CEO and Founder, Mobile IQ (November 2008 – April 2012)
-* Various VP-level marketing and business development roles at Agrogroup (October 2004 – August 2008)
+* RWS Chief Executive (April 2017 – Present)
+* RWS Deputy Chief Executive (October 2015 – April 2017)
+* RWS CFO (October 2012 – November 2017)
+* CFO, Actix International Ltd (2006 - 2012)
+* CFO, Torex Retail Plc
+* Various financial roles, Courtaulds Textiles Plc (1989 - 1999), including CFO of Courtaulds’ operation in Nanjing
 
 ## Qualifications
-* BS in Computer Science, Manchester Metropolitan University
+* Fellow Chartered Accountant I.C.A.E.W. (“FCA”)
+* BSc (Hons) Jt Chemistry and Physics, Hull University
