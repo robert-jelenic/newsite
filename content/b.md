@@ -2,7 +2,7 @@
 title: "The B Blog post"
 date: 2018-10-06T11:19:45+01:00
 draft: true
-author: "Robert"
+author: "Robert Jelenic"
 tags: ["tag2", "tag3"]
 categories: ["cat2"]
 moods: ["Robert", "Kathleen"]
