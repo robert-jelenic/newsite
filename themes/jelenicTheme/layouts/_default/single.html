@@ -27,15 +27,16 @@
     </div>
     <div class="container">
 
-      {{ partial "breadcrumbs" . }} {{ .Content }}
+      {{ partial "breadcrumbs" . }} {{ .Content }} {{ partial "disqus" . }}
     </div>
+
     {{ partial "footer" . }}
   </main>
 
 
 
   {{ partial "js" . }}
-
+  <script id="dsq-count-scr" src="//newsite-9.disqus.com/count.js" async></script>
 </body>
 
 </html>
