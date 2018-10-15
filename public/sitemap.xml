@@ -3,18 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kind-joliot-1699fe.netlify.com/management-team/richard_thompson/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kind-joliot-1699fe.netlify.com/management-team/desmond_glass/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kind-joliot-1699fe.netlify.com/management-team/charles_sitch/</loc>
-  </url>
-  
-  <url>
     <loc>https://kind-joliot-1699fe.netlify.com/blog/blog-post-2/</loc>
     <lastmod>2018-10-06T19:44:07+01:00</lastmod>
   </url>
@@ -47,11 +35,6 @@
   
   <url>
     <loc>https://kind-joliot-1699fe.netlify.com/jobs/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kind-joliot-1699fe.netlify.com/management-team/</loc>
     <priority>0</priority>
   </url>
   
