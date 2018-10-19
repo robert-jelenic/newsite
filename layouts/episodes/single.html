@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <!-- <link rel="icon" href="../../../../favicon.ico"> -->
+  {{ partial "css" . }}
+  <title>Rob's cool project</title>
+</head>
+
+<body>
+  <main role="main">
+    {{ partial "header" . }}
+    <div class="jumbotron">
+      <div class="container">
+        <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+    <div class="container">
+      {{ partial "breadcrumbs" . }} {{ .Content }}
+
+      <!-- <div class="media">
+        <img class="align-self-center mr-3 rounded" src="https://res.cloudinary.com/dpuo6sogj/image/upload/c_scale,w_200/v1539902142/PysaryukO-e1442952368946-1024x1024_nnstyl.jpg" alt="...">
+        <div class="media-body">
+          <h5 class="mt-0">About Oleksandr Pysaryuk</h5>
+          <p>Oleksandr Pysaryuk is the Localization Manager at Achievers, provider of the cloud-based Employee Success Platform. At Achievers, he is in charge of all things related to localization. Oleksandr has 13 years of experience in software localization on both buyer and service provider sides. Before joining Achievers, he was a Localization Analyst at BlackBerry and also held localization management roles in several other companies, including LanguageScientific and Logrus. Oleksandr holds an MA in Linguistics and Translation Studies and taught translation at a university in Ukraine.</p>
+        </div>
+      </div> -->
+
+
+
+
+
+
+      {{ partial "disqus" . }}
+    </div>
+    {{ partial "footer" . }}
+  </main>
+
+  {{ partial "js" . }}
+  <script id="dsq-count-scr" src="//newsite-9.disqus.com/count.js" async></script>
+</body>
+
+</html>
