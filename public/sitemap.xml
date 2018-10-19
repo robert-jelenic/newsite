@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kind-joliot-1699fe.netlify.com/blog/blog-post-2/</loc>
-    <lastmod>2018-10-06T19:44:07+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kind-joliot-1699fe.netlify.com/blog/blog-post-3/</loc>
-    <lastmod>2018-10-06T19:44:07+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kind-joliot-1699fe.netlify.com/blog/blog-post-1/</loc>
-    <lastmod>2018-10-06T19:44:02+01:00</lastmod>
+    <loc>https://kind-joliot-1699fe.netlify.com/episodes/podcast-65-a-big-brands-small-start-to-a-successful-localization-program/</loc>
+    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,13 +13,23 @@
   </url>
   
   <url>
-    <loc>https://kind-joliot-1699fe.netlify.com/blog/</loc>
-    <lastmod>2018-10-06T19:44:07+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://kind-joliot-1699fe.netlify.com/episodes/podcast-64-proving-the-roi-of-localization/</loc>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kind-joliot-1699fe.netlify.com/episodes/podcast-63-making-the-most-of-localization-events-and-conferences/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://kind-joliot-1699fe.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kind-joliot-1699fe.netlify.com/episodes/</loc>
+    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
