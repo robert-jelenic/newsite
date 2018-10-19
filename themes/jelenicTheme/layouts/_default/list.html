@@ -61,17 +61,13 @@
 
         <div class="card">
           <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
-
-
-
-
           <div class="card-body">
           <h5 class="card-title"><a href="{{.URL}}">{{.Title}}</a></h5>
 
             <p class="card-text">{{ .Content | safeHTML | truncate 200 }}</p>
           </div>
           <div class="card-footer">
-            <p class="card-text"><small class="text-muted">Published: {{ dateFormat "Jan 2, 2006" .Date }}</small></p>
+            <p class="card-text"><small class="text-muted">{{ dateFormat "Jan 2, 2006" .Date }}</small></p>
           </div>
         </div>
 
